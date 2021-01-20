@@ -1,3 +1,7 @@
+body {
+  background-image: url("bg_image.jpg");
+}  
+
 #text-output {
   min-height: 200px;
   border-radius: 3px;
