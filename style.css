@@ -2,6 +2,9 @@ body {
   background-image: url("bg_image.jpg");
   background-position: center;
   background-size: cover;
+  background-repeat: no-repeat;
+  height: 500px;
+  background-color: #333;
 }  
 
 #text-output {
